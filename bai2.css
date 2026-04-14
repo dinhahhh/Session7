@@ -1,0 +1,16 @@
+.parent{
+display: flex;
+    flex-wrap: wrap;       
+    gap: 15px;            
+    padding: 20px;
+    border: 2px solid black;
+    justify-content: center;
+}
+.child{
+background-color: rgb(63, 245, 57);
+    color: white;
+    width: calc(25% - 15px); 
+    padding: 30px 0;
+    text-align: center;
+    border-radius: 5px;
+}
