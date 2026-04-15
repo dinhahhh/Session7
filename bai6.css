@@ -1,0 +1,35 @@
+.header{
+background-color: rgb(16, 16, 38);
+color: white;
+line-height: 60px;
+}
+.blog{
+margin-left: 200px;
+margin-right: 600px;
+}
+.home{
+margin: 10px;
+font-size: smaller;
+}
+.text{
+margin-left: 150px;
+}
+.text1{
+background-color: rgba(248, 251, 253, 0.95);
+padding: 5px;
+width: 500px;
+}
+.text2{
+background-color: rgb(244, 246, 248);
+padding: 5px;
+width: 500px;
+}
+.a{
+text-decoration: none;
+}
+footer{
+background-color:rgb(16, 16, 38);;
+color: white;
+line-height: 60px;
+text-align: center;
+}
