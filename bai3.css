@@ -1,0 +1,19 @@
+.container{
+padding: 20px;
+display: flex;
+flex-wrap: wrap; gap: 15px;
+justify-content: center;
+border: 1px solid black;
+}
+.item{
+background-color: green;
+width: calc(25% - 15px);
+text-align: center;
+padding: 20px 0;
+}
+.itemlarge{
+background-color: green;
+width: calc(50% - 15px);
+text-align: center;
+padding: 20px 0;
+}
